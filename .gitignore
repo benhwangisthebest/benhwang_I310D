@@ -1,0 +1,4 @@
+.DS_Store
+.bkit/
+.ipynb_checkpoints/
+__pycache__/
